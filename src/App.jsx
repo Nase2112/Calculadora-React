@@ -30,6 +30,7 @@ function App() {
      
   
      <div className='calculadora-contenedor'> 
+     
      <Pantalla input={input} />
         <div className='fila'>
           <ButtonCalc insertarTexto={insertarTexto}> 1</ButtonCalc>
